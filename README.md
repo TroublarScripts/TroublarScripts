@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TroublarScripts
+- I’m interested in making entities in doors
+- I’m currently learning how to make them
+- I’m looking to collaborate on any gd level!
